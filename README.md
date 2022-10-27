@@ -1,0 +1,2 @@
+# UygulamaSoruCozumleri
+UygulamaOdevSoruCozumleri
