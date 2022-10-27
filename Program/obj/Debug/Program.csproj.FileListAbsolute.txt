@@ -1,0 +1,7 @@
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\bin\Debug\Program.exe.config
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\bin\Debug\Program.exe
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\bin\Debug\Program.pdb
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\obj\Debug\Program.exe
+C:\Users\23ism\OneDrive\Belgeler\Projeler\Program\Program\obj\Debug\Program.pdb
